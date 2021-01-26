@@ -1,0 +1,22 @@
+{
+  "name": "zymodbus",
+  "version": "1.0.0",
+  "description": "special modbus",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sixersun/zymodbus.git"
+  },
+  "keywords": [
+    "modbus"
+  ],
+  "author": "sixersun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sixersun/zymodbus/issues"
+  },
+  "homepage": "https://github.com/sixersun/zymodbus#readme"
+}
